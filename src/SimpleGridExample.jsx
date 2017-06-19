@@ -11,7 +11,6 @@ export default class extends Component {
         }
 
         console.log('Main Feat');
-        console.log('Main Feat 2');
 
     }
 
