@@ -9,9 +9,7 @@ export default class extends Component {
             columnDefs: this.createColumnDefs(),
             rowData: this.createRowData()
         }
-
-        console.log('Main Feat 2');
-
+        
     }
 
     onGridReady(params) {
