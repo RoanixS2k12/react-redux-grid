@@ -10,7 +10,7 @@ export default class extends Component {
             rowData: this.createRowData()
         }
 
-        console.log('HELLO');
+        console.log('Main Feat');
 
     }
 
